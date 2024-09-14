@@ -1,0 +1,16 @@
+{
+    "name": "saucedemo-automation-tests",
+    "version": "1.0.0",
+    "description": "Automated test suite for saucedemo.com using Cypress",
+    "main": "index.js",
+    "scripts": {
+      "test": "cypress run",
+      "cypress:open": "cypress open"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+      "cypress": "^12.0.0" 
+    }
+  }
